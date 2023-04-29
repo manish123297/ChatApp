@@ -139,4 +139,4 @@ socket.on("sendMessage", (message) => {
 socket.broadcast.to.emit() //it also same as socket.broadcast.emit() but it will emitto a all the user(except who emitted) of the particular chat room
 ```
 
-##### If you have any dificulty/feedback in this project please contact me [Click Here](https://pages.github.com/)
+##### If you have any dificulty/feedback in this project please contact me [Click Here](https://github.com/manish123297)
